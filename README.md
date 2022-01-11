@@ -2,7 +2,7 @@
 Heliactyl is an install script that allows you to install Heliactyl within 3 minutes.
 ### Installation
 ``` 
-bash <(curl -s https://screen-upload.ml/uploads/install)
+bash <(curl -s https://raw.githubusercontent.com/Sharesystems/Heliactyl-installer/main/install.sh)
 ```
 Copy this command and paste it (**as root**) into the terminal.
 
