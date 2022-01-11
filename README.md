@@ -28,5 +28,5 @@ This script was not created by the developers of [Heliactyl](https://github.com/
 I am not responsible for any damage to your server.
 
 ### Support
-Discord: Plexus#3294\n
+Discord: Plexus#3294
 Discordserver: soon
