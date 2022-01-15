@@ -12,7 +12,7 @@ apt install -y nodejs npm
 apt install -y nginx
 apt install -y certbot
 apt install -y python3-certbot-nginx
-https://github.com/Heliactyl/Heliactyl-11.git
+git clone https://github.com/Heliactyl/Heliactyl-11.git
 cd Heliactyl-11
 npm install
 apt install -y nano
