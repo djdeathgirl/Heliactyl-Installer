@@ -1,8 +1,8 @@
-echo "                  Heliactyl                    "
+echo "                  Heliactyl v11                "
 echo "###############################################"
 echo "           Installer by Plexus#3294            "
 echo "###############################################"
-echo "Version: 0.1"
+echo "Installer Version:  0.2"
 sleep 3
 echo "checking git..."
 apt update && apt -y upgrade
@@ -12,8 +12,8 @@ apt install -y nodejs npm
 apt install -y nginx
 apt install -y certbot
 apt install -y python3-certbot-nginx
-git clone https://github.com/vachanmn123/Heliactyl.git
-cd Heliactyl
+https://github.com/Heliactyl/Heliactyl-11.git
+cd Heliactyl-11
 npm install
 apt install -y nano
 echo "###############################################"
